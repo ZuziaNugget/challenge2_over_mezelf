@@ -1,0 +1,182 @@
+.header{
+    height: 130px;
+    width: auto;
+    background-image:url(images100.jpg);
+    text-align: center;
+    padding: 20px;
+    border-radius: 30px ;
+}
+
+.h1_header{
+    margin-top: 10px;
+    color: rgb(139, 174, 185);
+      font-size: 50px;
+}
+
+.floating_header_image_left{
+    margin-top: -109px;
+    margin-left: 75px;
+    width: 140px;
+    height: 100px;
+    float: left;
+    border-radius: 30px;
+}
+
+.gif_left{
+  margin-top: -109px; ;
+  margin-left: 235px ;
+  width: 140px ;
+  height: 100px ;
+   float: left;
+   border-radius: 50px;
+}
+
+.gif_right{
+  margin-top: -109px; ;
+  margin-right: 235px ;
+  width: 140px ;
+  height: 100px ;
+  float: right;
+  border-radius: 50px;
+}
+
+.floating_header_image_right{
+    margin-top: -109px;
+    margin-right: 75px;
+    width: 140px;
+    height: 100px;
+    float: right;
+    border-radius: 30px;
+}
+
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: Arial;
+    padding: 10px;
+    background: #f1f1f1;
+  }
+  
+  .topnav {
+    overflow: hidden;
+    background-color: #333;
+    width: 10000px;
+    margin-top: 50px;
+  }
+  
+  .topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .leftcolumn {   
+    float: left;
+    width: 75%;
+    border-radius: 30px;
+  }
+  
+  .rightcolumn {
+    float: left;
+    width: 25%;
+    padding-left: 20px;
+  }
+  
+  .veel-doggos{
+    height: 150px;
+    width: 100%;
+    background-image: url(https://wallpaperaccess.com/full/532931.jpg);
+    border-radius: 30px;
+  }
+
+  .img_2{
+    background-image: url(https://mail.google.com/mail/u/0/#inbox?projector=1);
+    padding: 20px;
+    height: 150px;
+    width: 100px;
+    border-radius: 30px;
+  }
+
+  .img_3{
+    border-radius: 30px;
+  }
+
+  .card1 {
+    background-color: rgb(14, 56, 61);
+    color: rgb(144, 231, 255);
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 30px;
+  }
+
+  .card2 {
+    background-color:rgb(14, 56, 61);
+    color: rgb(144, 231, 255);
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 30px;
+    margin-bottom: 20px;
+  }
+
+  .card-3 {
+    background-color: rgb(14, 56, 61);
+    color: rgb(144, 231, 255);
+    padding: 20px;
+    margin-top: 20px;
+    height: 410px;
+    width: 338px;
+    border-radius: 30px;
+  }
+
+  .card4 {
+    background-color: rgb(14, 56, 61);
+    color: rgb(144, 231, 255);
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 30px;
+  }
+
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+body{
+    background-color: rgb(8, 28, 30);
+}
+
+.audio-web {
+  display: none;
+
+}
+
+a:link, a:visited {
+  background-color: rgb(8, 28, 30);
+  color: rgb(144, 231, 255);
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 30px;
+}
+
+a:hover, a:active {
+  background-color:rgb(144, 231, 255);
+  color: rgb(8, 28, 30);
+}
+
+
+
+
+
+
